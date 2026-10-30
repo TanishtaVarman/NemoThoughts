@@ -59,7 +59,7 @@ export default function Sidebar(props: SidebarProps) {
               CB
             </div>
             <div className="leading-tight">
-              <div className="text-[15px] font-semibold tracking-tight text-zinc-950">CrimeBook</div>
+              <div className="text-[15px] font-semibold tracking-tight text-zinc-950"> NemoThoughts</div>
               <div className="text-[11px] text-zinc-500">AI Study Companion</div>
             </div>
           </div>
