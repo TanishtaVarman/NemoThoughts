@@ -1,4 +1,4 @@
-# CrimeBook
+# NemoThoughts
 
 A monochrome AI study companion. Ask questions per subject and lesson; every answer ends with a **Rule to remember**, which is logged automatically to a per-subject **Mistake Book**. Concepts you keep asking about rise to the top.
 
